@@ -10,5 +10,6 @@ const styles = StyleSheet.create({
         // toi moi thay doi 
     }
 })
+// toi vua comment vao day 
 
 export default styles;
